@@ -133,7 +133,7 @@ GEM
       actionpack (>= 1.4.0)
       activerecord (>= 1.6.0)
       rake (>= 0.4.15)
-    rake (10.4.2)
+    rake (13.0.1)
     sinatra (1.4.6)
       rack (~> 1.4)
       rack-protection (~> 1.4)
